@@ -17,7 +17,7 @@ console.log('Populating data fields');
 const resumeHtml = generateResumeHtml(data);
 
 console.log('Writing generated HTML to /build');
-writeFile('../build/resume.html', resumeHtml);
+writeFile('../docs/index.html', resumeHtml);
 
 console.log('Converting HTML to PDF');
 const resumePdf = await convertHtmlToPdf(resumeHtml);

@@ -64,6 +64,7 @@ export default {
       '<a href="https://github.com/jbrems/color-wheel" class="underline">Color wheel</a>',
     ]},
   ],
-  //footer: 'This PDF was built with HTML and TailwindCSS and was generated with Handlebars and Puppeteer.'
-  footer: 'This page was built with HTML and TailwindCSS and was generated with Handlebars.'
+  //footer: 'This PDF was built with HTML and TailwindCSS and was generated with Handlebars and Puppeteer.',
+  footer: 'This page was built with HTML and TailwindCSS and was generated with Handlebars.',
+  source: 'https://github.com/jbrems/resume',
 };
