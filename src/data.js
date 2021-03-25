@@ -33,7 +33,7 @@ export default {
       'I briefly worked as an Oracle consultant implementing a stock counting application for a client in Oracle\'s Apex.',
     ]},
     { jobTitle: 'After work', descriptions: [
-      'After work I stay up to date with non-work-related web development technologies by watching my favorite technology youtubers or listening to my favorite (Syntax) podcast, often while playing video games that require little focus or attention.',
+      'After work I stay up-to-date with non-work-related web development technologies by watching my favorite technology youtubers or listening to my favorite (Syntax) podcast, often while playing video games that require little focus or attention.',
       'Doing so provided me with basic knowledge of React, Vue, GraphQL, UX and design principles, SVG animations, Redux, and much more.',
     ]},
   ],
