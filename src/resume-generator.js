@@ -16,7 +16,7 @@ const generateResumeHtml = handlebars.compile(template.toString());
 console.log('Populating data fields');
 const resumeHtml = generateResumeHtml(data);
 
-console.log('Writing generated HTML to /build');
+console.log('Writing generated HTML to /docs');
 writeFile('../docs/index.html', resumeHtml);
 
 console.log('Converting HTML to PDF');
