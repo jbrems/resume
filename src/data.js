@@ -27,7 +27,7 @@ export default {
       'In my current position I work with popular Javascript technologies like NodeJs 14, Angular 11, Express, Passportjs, mongoose and Jest.',
     ]},
     { jobTitle: 'Software engineer Java @ CM', period: 'April 2012 - May 2017 (5 years)', descriptions: [
-      'Development of Java web-applications, web-services and supporting applications.',
+      'Development of Java web applications, webservices and supporting applications.',
     ]},
     { jobTitle: 'Junior Oracle consultant', period: 'August 2011 - April 2012 (< 1 year)', descriptions: [
       'I briefly worked as an Oracle consultant implementing a stock counting application for a client in Oracle\'s Apex.',
